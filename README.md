@@ -1,5 +1,7 @@
 ### Hello 👋, My name is [Kliment Tenev](https://github.com/KGTenev20/)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKGTenev2098&count_bg=%2379C83D&title_bg=%23555555&icon=nucleo.svg&icon_color=%23F7F7F7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <img align="right" height="350" width="375" alt="" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif" />
 
 ### About me
