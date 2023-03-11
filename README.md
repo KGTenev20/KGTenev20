@@ -6,14 +6,14 @@
 
 ### About me
 - 💻 I’m currently Studying in PGKPI
-- 🌱 I’m currently learning **C++, HTML and CSS**
-- &nbsp;🚀 How to reach me: KGTenev20@codingburgas.bg 📫
+- 🌱 I’m currently learning **C++ and SQL**
+- &nbsp;🚀 How to reach me: KGTenev20@codingburgas.bg and kliment.tenev@gmail.com📫
 - 👾 My hobbies consist of playing video games and going out with friends.
-- 💻 &nbsp; Fun fact: I love eating.
+- 💻 &nbsp; Fun fact: a homeless man is roughly 126,000 calories.
 
 ### Get in touch with me
  <p align="left">
-<a href="https://www.facebook.com/kliment.tenev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kliment tenev" height="30" width="40" /></a>
+<a href="https://www.facebook.com/kliment.tenev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Kliment Tenev" height="30" width="40" /></a>
 </p>
 
 
