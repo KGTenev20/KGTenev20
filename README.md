@@ -6,7 +6,7 @@
 
 ### About me
 - 💻 I’m currently Studying in PGKPI
-- 🌱 I’m currently learning **C++ and SQL**
+- 🌱 I’m currently learning **java**
 - &nbsp;🚀 How to reach me: KGTenev20@codingburgas.bg and kliment.tenev@gmail.com📫
 - 👾 My hobbies consist of playing video games and going out with friends.
 - 💻 &nbsp; Fun fact: a homeless man is roughly 126,000 calories.
